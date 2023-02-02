@@ -9,3 +9,10 @@ return 0;
 int fun()
 {
 }
+
+
+int add()
+{
+
+
+}

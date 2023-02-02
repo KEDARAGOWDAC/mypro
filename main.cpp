@@ -12,8 +12,8 @@ int fun()
 
 int sub()
 {
-
-
+cout<<"its sub function"<<endl;
+}
 int add()
 {
 

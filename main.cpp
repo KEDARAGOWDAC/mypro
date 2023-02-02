@@ -16,6 +16,7 @@ cout<<"its sub function"<<endl;
 }
 int add()
 {
+cout<<"add statement"<<endl;
 
 
 }

@@ -9,3 +9,8 @@ return 0;
 int fun()
 {
 }
+
+int sub()
+{
+
+}
